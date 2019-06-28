@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-videos/static/css/main.83681c6a.chunk.css",
-    "main.js": "/React-videos/static/js/main.4916965b.chunk.js",
-    "main.js.map": "/React-videos/static/js/main.4916965b.chunk.js.map",
+    "main.css": "/React-videos/static/css/main.2d15a750.chunk.css",
+    "main.js": "/React-videos/static/js/main.f1f0b0b6.chunk.js",
+    "main.js.map": "/React-videos/static/js/main.f1f0b0b6.chunk.js.map",
     "runtime~main.js": "/React-videos/static/js/runtime~main.d17b82ec.js",
     "runtime~main.js.map": "/React-videos/static/js/runtime~main.d17b82ec.js.map",
     "static/js/2.fc36bde1.chunk.js": "/React-videos/static/js/2.fc36bde1.chunk.js",
     "static/js/2.fc36bde1.chunk.js.map": "/React-videos/static/js/2.fc36bde1.chunk.js.map",
     "index.html": "/React-videos/index.html",
-    "precache-manifest.625412c5a15d0dd2e5537b48e406f57d.js": "/React-videos/precache-manifest.625412c5a15d0dd2e5537b48e406f57d.js",
+    "precache-manifest.b980b8511d4f2b2a5726185d5c816801.js": "/React-videos/precache-manifest.b980b8511d4f2b2a5726185d5c816801.js",
     "service-worker.js": "/React-videos/service-worker.js",
-    "static/css/main.83681c6a.chunk.css.map": "/React-videos/static/css/main.83681c6a.chunk.css.map"
+    "static/css/main.2d15a750.chunk.css.map": "/React-videos/static/css/main.2d15a750.chunk.css.map"
   }
 }
