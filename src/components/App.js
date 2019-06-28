@@ -8,6 +8,9 @@ class App extends React.Component{
 
   state = {videos:[],selectedVideo : null};
 
+  componentDidMount(){
+    this.onTermSubmit('icc')
+  }
 
   onTermSubmit = async term =>{
    //console.log(term);
@@ -22,7 +25,10 @@ class App extends React.Component{
 
    //console.log(response);
 
-   this.setState({videos : response.data.items});
+   this.setState({
+     videos : response.data.items,
+     selectedVideo : response.data.items[0]
+    });
   };
 
   onVideoSelect = (video) =>{
